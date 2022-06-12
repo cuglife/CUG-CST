@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>arrow_down.png</file>
+        <file>backpage_common.png</file>
+    </qresource>
+</RCC>

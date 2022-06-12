@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/backpage_login.png</file>
+        <file>image/about.gif</file>
+        <file>image/backpage_common.png</file>
+        <file>image/backpage_staff.png</file>
+        <file>image/backpage_student.png</file>
+        <file>image/backpage_system.png</file>
+        <file>image/icon/arrow_down.png</file>
+        <file>image/icon/close.png</file>
+        <file>image/icon/close_hover.png</file>
+        <file>image/icon/close_press.png</file>
+        <file>image/icon/minimize.png</file>
+        <file>image/icon/minimize_hover.png</file>
+        <file>image/icon/minimize_press.png</file>
+    </qresource>
+</RCC>

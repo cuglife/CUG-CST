@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>backpage_common.png</file>
+        <file>treeExm.png</file>
+        <file>arrow_down.png</file>
+    </qresource>
+</RCC>

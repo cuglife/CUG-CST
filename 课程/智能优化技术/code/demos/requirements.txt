@@ -1,0 +1,10 @@
+wheel
+optproblems
+xlwt
+colored
+termcolor
+statistics
+matplotlib
+pandas
+numpy
+tqdm

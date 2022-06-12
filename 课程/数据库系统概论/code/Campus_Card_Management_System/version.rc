@@ -1,0 +1,41 @@
+IDI_ICON1 ICON "icon.ico"
+#pragma code_page(65001)
+#if defined(UNDER_CE)
+#include <winbase.h>
+#else
+#include <winver.h>
+#endif
+ 
+VS_VERSION_INFO VERSIONINFO
+    FILEVERSION 0,0,0,99
+    PRODUCTVERSION 0,0,0,99
+    FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+    FILEFLAGS VS_FF_DEBUG
+#else
+    FILEFLAGS 0x0L
+#endif
+    FILEOS VOS__WINDOWS32
+    FILETYPE VFT_DLL
+    FILESUBTYPE 0x0L
+    BEGIN
+        BLOCK "StringFileInfo"
+        BEGIN
+            BLOCK "080404b0"
+            BEGIN
+                VALUE "CompanyName", "ME\0"
+                VALUE "FileDescription", "校园卡管理系统\0"
+                VALUE "FileVersion", "0.0.0.01\0"
+                VALUE "ProductVersion", "0.0.0.01\0"
+                VALUE "LegalCopyright", "版权所有 2019 wewing LLC 保留所有权利\0"
+                VALUE "OriginalFilename", "Campus Card Management System.exe\0"
+                VALUE "ProductName", "校园卡管理系统\0"
+                VALUE "InternalName", "QT_practicer\0"
+           END
+        END
+        
+        BLOCK "VarFileInfo"
+        BEGIN
+            VALUE "Translation", 0x804, 1200
+        END        
+    END
