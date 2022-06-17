@@ -1,3 +1,6 @@
+## 简介之前
+欢迎 star or fork，同时也**欢迎贡献你的想法/评价/纠错/PR/任何有用的东西**！
+
 ## 简介
 
 本仓库主要收录了本人收集的计算机科学与技术专业的课程资料，为地大学子做出一点微小的贡献😎
@@ -8,15 +11,15 @@ repo 结构重新依照 **个人喜好** 进行组织，对部分课程进行了
 
 因为 **任课教师不同/培养方案改变/课程更新** 等，部分资料可能不再适用，请自行甄别！同时在新培养方案中停开的课程不再上传，如有需要请与我联系
 
-欢迎 star or fork，同时也**欢迎贡献你的想法/评价/纠错/PR/任何有用的东西**！
+**教材可自行在网上检索，推荐网站 [https://libgen.is/](https://libgen.is/)**
+
+
 
 **只下载单个文件夹方法**
 
 * 使用 Chrome 插件 [gitzip](https://gitzip.org/)，使用方法参考[插件官网](https://gitzip.org/)
 
-* 使用第三方网站：[DownGit](https://minhaskamal.github.io/DownGit/#/home)，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择download即可
-
-**教材可自行在网上检索，推荐网站 [https://libgen.is/](https://libgen.is/)** ,**如有需要，请与本人联系**
+* 使用第三方网站：[DownGit](https://minhaskamal.github.io/DownGit/#/home)，复制该文件夹的网址，粘贴入[DownGit](https://minhaskamal.github.io/DownGit/#/home)中，选择 download 即可
 
 ## 警告
 
